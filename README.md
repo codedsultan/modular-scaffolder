@@ -74,10 +74,10 @@ composer require codedsultan/modular-scaffolder:@dev
 
 ```bash
 php artisan module:install Product
-# php artisan module:install-frontend Product
-php artisan module:add-crud Product
-```
 
+```
+<!--  php artisan module:install-frontend Product
+ php artisan module:add-crud Product -->
 ✅ Full working Product Management module created instantly.
 
 ---
@@ -85,7 +85,7 @@ php artisan module:add-crud Product
 ## 📚 Requirements
 
 - PHP 8.1+
-- Laravel 10 or 11
+- Laravel 10+
 <!-- - Node 18+ (for Vite + Tailwind)
 - TailwindCSS
 - Shadcn UI installed
