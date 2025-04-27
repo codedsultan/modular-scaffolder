@@ -3,12 +3,12 @@
 
 **Modular Scaffolder** is a developer-friendly package that helps you **generate full-stack modular CRUD systems** quickly.
 
-✅ Laravel Modular Backend  
+<!-- ✅ Laravel Modular Backend  
 ✅ Inertia.js + React + Typescript Frontend  
 ✅ Full CRUD Pages (Create/Edit/Show/Index)  
 ✅ React Hook Form + Zod Validation  
 ✅ TailwindCSS + Shadcn/UI Ready  
-✅ Toast Notifications + Confirm Dialogs Included
+✅ Toast Notifications + Confirm Dialogs Included -->
 
 ---
 
