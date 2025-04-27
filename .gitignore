@@ -1,0 +1,34 @@
+# Laravel Package .gitignore
+
+/vendor/
+/node_modules/
+/.env
+.phpunit.result.cache
+/storage/*.key
+/storage/framework/*
+/storage/logs/*
+/.idea/
+/.vscode/
+/.DS_Store
+*.log
+*.sqlite
+*.sqlite3
+*.zip
+*.tar.gz
+*.7z
+
+# Optional: Composer and NPM dump files
+composer.lock
+package-lock.json
+yarn.lock
+
+# Optional: Ignore test coverage outputs
+coverage/
+phpcoverage/
+
+# Ignore editor-specific stuff
+*.swp
+*.swo
+
+# Mac system files
+Icon?
