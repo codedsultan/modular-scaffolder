@@ -1,7 +1,7 @@
 
 # 🚀 Modular Scaffolder for Laravel
 
-**Codedsultan Modular Scaffolder** is a developer-friendly package that helps you **generate full-stack modular CRUD systems** quickly.
+**Modular Scaffolder** is a developer-friendly package that helps you **generate full-stack modular CRUD systems** quickly.
 
 ✅ Laravel Modular Backend  
 ✅ Inertia.js + React + Typescript Frontend  
