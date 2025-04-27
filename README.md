@@ -109,7 +109,7 @@ npm run dev
 
 ---
 
-## 🛡️ License
+<!-- ## 🛡️ License
 
 MIT License.
 
@@ -119,7 +119,7 @@ MIT License.
 
 Built and maintained by [Codedsultan](https://github.com/Codedsultan).  
 ---
----
+--- -->
 
 ## 🚧 Project Status
 
