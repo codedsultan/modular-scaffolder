@@ -60,13 +60,13 @@ composer require codedsultan/modular-scaffolder:@dev
 
 - Modular Folder Structure (Domain-Driven)
 - Backend CRUD API generation
-- Frontend CRUD UI generation (Inertia.js + React + Tailwind)
-- React Hook Form + Zod Validation
+<!-- - Frontend CRUD UI generation (Inertia.js + React + Tailwind) -->
+<!-- - React Hook Form + Zod Validation
 - Toasts for Notifications
 - Confirm Dialogs for Deletes
 - Pagination Ready
 - Reusable Layout (Dashboard)
-- Extendable & Customisable
+- Extendable & Customisable -->
 
 ---
 
@@ -86,10 +86,10 @@ php artisan module:add-crud Product
 
 - PHP 8.1+
 - Laravel 10 or 11
-- Node 18+ (for Vite + Tailwind)
+<!-- - Node 18+ (for Vite + Tailwind)
 - TailwindCSS
 - Shadcn UI installed
-- Inertia.js React adapter installed
+- Inertia.js React adapter installed -->
 
 ---
 
