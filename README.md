@@ -47,12 +47,12 @@ composer require codedsultan/modular-scaffolder:@dev
 | Command | Action |
 |:--------|:-------|
 | `php artisan module:install {ModuleName}` | Scaffold full Laravel backend module |
-| `php artisan module:install-frontend {ModuleName}` | Scaffold full React frontend module |
-| `php artisan module:add-crud {ModuleName}` | Add CRUD operations to backend controller |
+<!-- | `php artisan module:install-frontend {ModuleName}` | Scaffold full React frontend module |
+| `php artisan module:add-crud {ModuleName}` | Add CRUD operations to backend controller | -->
 
 ✅ One command creates model, service, repository, controller, requests, resources, events, routes, tests, factories, and more.
 
-✅ Frontend side creates pages, services, hooks, components.
+<!-- ✅ Frontend side creates pages, services, hooks, components. -->
 
 ---
 
@@ -74,7 +74,7 @@ composer require codedsultan/modular-scaffolder:@dev
 
 ```bash
 php artisan module:install Product
-php artisan module:install-frontend Product
+# php artisan module:install-frontend Product
 php artisan module:add-crud Product
 ```
 
