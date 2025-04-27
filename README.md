@@ -118,6 +118,32 @@ MIT License.
 ## ✨ About Codedsultan
 
 Built and maintained by [Codedsultan](https://github.com/Codedsultan).  
+---
+
+## 👋 About the Author
+
+Hey there! I'm **Codedsultan(Olusegun Ibraheem)** — a passionate **freelancer** building scalable Laravel and React systems. 🚀
+
+✅ I'm currently **open to work** — available for freelance, part-time, or full-time opportunities!
+
+If you love this project (or just love good modular code 🛠️) feel free to:
+
+- ⭐ Star this repo
+- 🛠️ Submit a PR
+- ☕ [Buy Me A Coffee](https://www.buymeacoffee.com/codesultan) — keeps me coding at 3am! 😄
+
+Let's connect on [LinkedIn](https://www.linkedin.com/in/codesultan/) if you want to collaborate!
+
+Happy coding! 🔥
+
+---
+
+## 🛡️ License
+
+This project is open-sourced software licensed under the [MIT license](LICENSE).
+
+---
+
 <!-- We build tools that make Laravel and React development faster, cleaner, and happier. 🚀
 ```
 
