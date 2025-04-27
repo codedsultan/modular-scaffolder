@@ -119,6 +119,21 @@ MIT License.
 
 Built and maintained by [Codedsultan](https://github.com/Codedsultan).  
 ---
+---
+
+## 🚧 Project Status
+
+This project is currently **under active development**. 🚀
+
+While it's not yet 100% complete, **I strive to keep every commit stable** and functional.
+
+✅ All changes are carefully tested  
+✅ Backward compatibility will be maintained as much as possible  
+✅ An updated [CHANGELOG.md](CHANGELOG.md) is maintained for every version
+
+If you find any bugs or want to suggest features, feel free to [open an issue](https://github.com/Codedsultan/modular-scaffolder/issues) or submit a PR! 🤝
+
+---
 
 ## 👋 About the Author
 
@@ -151,8 +166,8 @@ This project is open-sourced software licensed under the [MIT license](LICENSE).
 
  -->
 
-[![Tests](https://github.com/Codedsultan/modular-scaffolder/actions/workflows/tests.yml/badge.svg)](https://github.com/Codedsultan/modular-scaffolder/actions)
-[![codecov](https://codecov.io/gh/Codedsultan/modular-scaffolder/branch/main/graph/badge.svg)](https://codecov.io/gh/Codedsultan/modular-scaffolder)
+<!-- [![Tests](https://github.com/Codedsultan/modular-scaffolder/actions/workflows/tests.yml/badge.svg)](https://github.com/Codedsultan/modular-scaffolder/actions)
+[![codecov](https://codecov.io/gh/Codedsultan/modular-scaffolder/branch/main/graph/badge.svg)](https://codecov.io/gh/Codedsultan/modular-scaffolder) -->
 
 <!-- Full-stack Laravel Modular CRUD Generator... -->
 
