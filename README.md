@@ -143,7 +143,12 @@ We build tools that make Laravel and React development faster, cleaner, and happ
 ---
 
 ```markdown
-![Tests](https://github.com/Codedsultan/modular-scaffolder/actions/workflows/tests.yml/badge.svg)
+
+[![Tests](https://github.com/Codedsultan/modular-scaffolder/actions/workflows/tests.yml/badge.svg)](https://github.com/Codedsultan/modular-scaffolder/actions)
+[![codecov](https://codecov.io/gh/Codedsultan/modular-scaffolder/branch/main/graph/badge.svg)](https://codecov.io/gh/Codedsultan/modular-scaffolder)
+
+Full-stack Laravel Modular CRUD Generator...
+
 ```
 
 
